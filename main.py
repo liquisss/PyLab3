@@ -1,5 +1,4 @@
 import re
-#changes
 
 def is_valid_snils(snils):
     snils_pattern = r'^\d{3}-\d{3}-\d{3} \d{2}$|^\d{11}$'
