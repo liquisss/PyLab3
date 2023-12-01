@@ -21,7 +21,7 @@ snils1 = "116-973-385 89" #с разделителями
 snils2 = "11697338589" #без разделителей
 snils3 = "116-973-385 8" #неправильное кол-во цифр
 snils4 = "116-973-385 80" #неправильная контрольная сумма
-
+#using....
 print(is_valid_snils(snils1))
 print(is_valid_snils(snils2))
 print(is_valid_snils(snils3))
